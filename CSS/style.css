@@ -13,12 +13,6 @@ body {
     height: 100vh;
 }
 
-#cover{
-    background-color: rgba(178, 152, 91, .4);
-    height: 200px;
-    width: 350px;
-}
-
 #background {
     background-color: rgba(180, 0, 0, 1);
     height: 200px;
