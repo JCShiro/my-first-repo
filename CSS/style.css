@@ -20,8 +20,10 @@ body {
     display: flex;
 }
 
-#textbox {
+#textbox1 {
     background-color: rgb(255, 255, 255);
-    height: 100px;
-    width: 350px; 
+    height: 75px;
+    width: 350px;
+    /* position: relative; */
+    margin-top: 62.5px;
 }
